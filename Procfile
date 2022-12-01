@@ -1,1 +1,1 @@
-web: gunicorn app:giacomo_castagnetti
+web:gunicorn app:giacomo_castagnetti
